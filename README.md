@@ -2,7 +2,7 @@
 
 [![Python](https://img.shields.io/badge/Python-3.10-blue.svg)](https://www.python.org/downloads/)
 
-This repository contains the code and resources for the project **"Heart Disease Risk Prediction Using Machine Learning"**, developed as part of the INFO 531: Data Warehousing and Analytics in the Cloud course.
+This repository contains the code and resources for the project **"Heart Disease Risk Prediction Using Machine Learning"**, developed as part of the *INFO 531: Data Warehousing and Analytics in the Cloud* course.
 
 ---
 
