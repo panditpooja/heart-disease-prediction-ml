@@ -1,6 +1,6 @@
 # Heart Disease Risk Prediction Using Machine Learning
 
-[![Python](https://img.shields.io/badge/Python-3.10-blue.svg)](https://www.python.org/downloads/)
+[![Python](https://img.shields.io/badge/Python-3.10-blue.svg?logo=python&logoColor=white)](https://www.python.org/downloads/)
 
 This repository contains the code and resources for the project **"Heart Disease Risk Prediction Using Machine Learning"**, developed as part of the *INFO 531: Data Warehousing and Analytics in the Cloud* course.
 
